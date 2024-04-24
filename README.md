@@ -1,2 +1,2 @@
 # G10_21
-this repository is demo if gitbash and github we will add file from gitbash
+this repository is demo of gitbash and github we will add file from gitbash
